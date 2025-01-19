@@ -8,7 +8,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/car-scraper.git
+git clone https://github.com/yourusername/CarScraper.git
 cd CarScraper
 
 python -m venv venv
